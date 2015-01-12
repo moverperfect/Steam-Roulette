@@ -3,9 +3,9 @@ using System.Windows.Forms;
 
 namespace Steam_Roulette
 {
-    public partial class Form1 : Form
+    public partial class SteamRouletteWindow : Form
     {
-        public Form1()
+        public SteamRouletteWindow()
         {
             InitializeComponent();
         }

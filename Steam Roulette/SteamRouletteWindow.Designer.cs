@@ -1,6 +1,6 @@
 ﻿namespace Steam_Roulette
 {
-    partial class Form1
+    partial class SteamRouletteWindow
     {
         /// <summary>
         /// Required designer variable.
@@ -123,7 +123,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBox1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Steam Roulette";
             this.ResumeLayout(false);
             this.PerformLayout();
 
